@@ -29,6 +29,7 @@
       </p>
     </div>
     <div id="gameWindow">
-      <p id="question">Question.</p>
+      <h2 id="question">Tryk på knappen for et spørgsmål...</h2><br>
+      <input id="getQuestion" class="btn btn-primary btn-lg" type="button" value="Spørgsmål, TAK!!?">
     </div>
   <?php require_once($pathToRoot."includes/footer.php"); ?>

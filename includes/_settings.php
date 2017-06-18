@@ -1,4 +1,5 @@
 <?php
+  $version = "pre-alpha";
   // main title
   $mainTitle = "Kekelek";
   // error message
@@ -9,6 +10,6 @@
   $packs = array(
     array("Casual Pack", "casual"),
     array("Dank Pack", "dank"),
-    array("SUPER MeGa DanK 420^69 Päck", "super-mega-dank-420-69")
+    array("SUPER MeGa DanK 420^69 Päck", "super_mega_dank_420_69")
   );
 ?>
