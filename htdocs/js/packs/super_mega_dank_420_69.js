@@ -1,7 +1,7 @@
 var super_mega_dank_420_69 = [
   "Jeg har aldrig slugt",
   "Jeg har aldrig røget dank",
-  "Jeg har aldrig kastet op ud over nogen.(fra 10 år op) eller noget"
+  "Jeg har aldrig kastet op ud over nogen.(fra 10 år op) eller noget",
 "Jeg har aldrig været Kold før tolv"
 "Jeg har aldrig kunne lide øl"
 "Jeg har aldrig lagt an på en fuld person"
