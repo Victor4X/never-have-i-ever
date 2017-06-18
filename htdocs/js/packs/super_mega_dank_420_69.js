@@ -80,5 +80,4 @@ var super_mega_dank_420_69 = [
 "Din mor er grim"
 "Jeg har aldrig gået en klasse om"
 "Jeg har aldrig haft sex udendørs"
-
 ];
