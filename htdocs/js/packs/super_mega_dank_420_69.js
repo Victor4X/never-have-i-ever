@@ -2,82 +2,82 @@ var super_mega_dank_420_69 = [
   "Jeg har aldrig slugt",
   "Jeg har aldrig røget dank",
   "Jeg har aldrig kastet op ud over nogen.(fra 10 år op) eller noget",
-  "Jeg har aldrig været Kold før tolv"
-  "Jeg har aldrig kunne lide øl"
-  "Jeg har aldrig lagt an på en fuld person"
-  "Jeg har aldrig købt drinks til en af andet køn"
-  "Jeg har aldrig fået 12 til eksamen"
-  "Jeg har aldrig spinnet en fidget spinner"
-  "Jeg har aldrig fået under 4"
-  "Jeg har aldrig løget for mine forældre"
-  "Jeg har aldrig irriteret mine forældre med vilje"
-  "Jeg har aldrig pjækket fra skole"
-  "Jeg har aldrig kørt bil"
-  "Jeg har aldrig været troende"
-  "Jeg har aldrig set weird porno"
-  "Jeg har aldrig gået med briller"
-  "Jeg har aldrig fistet en med hele hånden"
-  "Jeg har aldrig haft mere end 2 fingre op i en kvinde"
-  "Jeg har aldrig haft noget oppe i røven"
-  "Jeg har aldrig taget snus"
-  "Jeg har aldrig knækket mig pga snus"
-  "Jeg har aldrig haft højdeskræk"
-  "Jeg har aldrig været akavet under sex"
-  "Jeg har aldrig brugt alle mine penge på alkohol"
-  "Jeg har aldrig programmeret"
-  "Jeg har aldrig haft en all nighter"
-"Jeg har aldrig ville have sex med nogen i rummet"
-"Jeg har aldrig haft en våd drøm"
-"Jeg har aldrig kysset en af samme køn"
-"Jeg har aldrig taget en pige på røven uden tilladelse"
-"Jeg har aldrig pisset i badet"
-"Jeg har aldrig kunne kneppe en der ikke så godt ud"
-"Jeg har aldrig knækket mig og så kysset en"
-"Jeg har aldrig haft en mund ved min kønsdel"
-"Jeg har aldrig blevet tvunget til at drikke"
-"Jeg har aldrig taget hårde stoffer"
-"Jeg har aldrig FÆLLES SKÅL!"
-"Jeg har aldrig onaneret i min vens hus"
-"Jeg har aldrig onaneret mens nogne var hjemme"
-"Jeg har aldrig sammen med nogle venner"
-"Jeg har aldrig kunne finde på at ligge an på min vens søster"
-"Jeg har aldrig været deprimeret"
-"Jeg har aldrig onaneret"
-"Jeg har aldrig slugt bræk"
-"Jeg har aldrig tændt på tis"
-"Jeg har aldrig haft anal sex"
-"Jeg har aldrig haft et forhold"
-"Jeg har aldrig blevet afvist"
-"Jeg har aldrig været afhængig af porno"
-"Jeg har aldrig pjækket fra skole for at have sex"
-"Jeg har aldrig pjækket fra skole for at onanere"
-"Jeg har aldrig afvist nogen"
-"Jeg har aldrig været så væk jeg ikke kunne huske noget"
-"Jeg har aldrig været fuld og høj på samme tid"
-"Jeg har aldrig været på skiferie"
-"Jeg har aldrig spist edibles"
-"Jeg har aldrig hallucineret"
-"Jeg har aldrig haft et bad trip"
-"Jeg har aldrig stået i kviksand"
-"Jeg har aldrig haft en hashplante"
-"Jeg har aldrig gokket den af til et familiemedlem"
-"Jeg har aldrig gokket den af til tanken af en jeg kender"
-"Jeg har aldrig gokket den af til et billede af en jeg kender"
-"Jeg har aldrig røget på en skoledag"
-"Jeg har aldrig været fuld på en skoledag"
-"Jeg har aldrig opdaget et familiemedlem i at onanere"
-"Jeg har aldrig opdaget et familiemedlem have sex"
-"Jeg har aldrig været AUTIST"
-"Jorden er flad"
-"Din mor"
-"Jeg har aldrig set et familiemedlem være fuld"
-"Jeg har aldrig været i frankrig"
-"Jeg har aldrig binge watched en serie"
-"Jeg har aldrig set børneporno"
-"Tyngdekraft findes ikke"
-"NASA har opdigtet alt"
-"Du findes ikke"
-"Din mor er grim"
-"Jeg har aldrig gået en klasse om"
+  "Jeg har aldrig været Kold før tolv",
+  "Jeg har aldrig kunne lide øl",
+  "Jeg har aldrig lagt an på en fuld person",
+  "Jeg har aldrig købt drinks til en af andet køn",
+  "Jeg har aldrig fået 12 til eksamen",
+  "Jeg har aldrig spinnet en fidget spinner",
+  "Jeg har aldrig fået under 4",
+  "Jeg har aldrig løget for mine forældre",
+  "Jeg har aldrig irriteret mine forældre med vilje",
+  "Jeg har aldrig pjækket fra skole",
+  "Jeg har aldrig kørt bil",
+  "Jeg har aldrig været troende",
+  "Jeg har aldrig set weird porno",
+  "Jeg har aldrig gået med briller",
+  "Jeg har aldrig fistet en med hele hånden",
+  "Jeg har aldrig haft mere end 2 fingre op i en kvinde",
+  "Jeg har aldrig haft noget oppe i røven",
+  "Jeg har aldrig taget snus",
+  "Jeg har aldrig knækket mig pga snus",
+  "Jeg har aldrig haft højdeskræk",
+  "Jeg har aldrig været akavet under sex",
+  "Jeg har aldrig brugt alle mine penge på alkohol",
+  "Jeg har aldrig programmeret",
+  "Jeg har aldrig haft en all nighter",
+"Jeg har aldrig ville have sex med nogen i rummet",
+"Jeg har aldrig haft en våd drøm",
+"Jeg har aldrig kysset en af samme køn",
+"Jeg har aldrig taget en pige på røven uden tilladelse",
+"Jeg har aldrig pisset i badet",
+"Jeg har aldrig kunne kneppe en der ikke så godt ud",
+"Jeg har aldrig knækket mig og så kysset en",
+"Jeg har aldrig haft en mund ved min kønsdel",
+"Jeg har aldrig blevet tvunget til at drikke",
+"Jeg har aldrig taget hårde stoffer",
+"Jeg har aldrig FÆLLES SKÅL!",
+"Jeg har aldrig onaneret i min vens hus",
+"Jeg har aldrig onaneret mens nogne var hjemme",
+"Jeg har aldrig sammen med nogle venner",
+"Jeg har aldrig kunne finde på at ligge an på min vens søster",
+"Jeg har aldrig været deprimeret",
+"Jeg har aldrig onaneret",
+"Jeg har aldrig slugt bræk",
+"Jeg har aldrig tændt på tis",
+"Jeg har aldrig haft anal sex",
+"Jeg har aldrig haft et forhold",
+"Jeg har aldrig blevet afvist",
+"Jeg har aldrig været afhængig af porno",
+"Jeg har aldrig pjækket fra skole for at have sex",
+"Jeg har aldrig pjækket fra skole for at onanere",
+"Jeg har aldrig afvist nogen",
+"Jeg har aldrig været så væk jeg ikke kunne huske noget",
+"Jeg har aldrig været fuld og høj på samme tid",
+"Jeg har aldrig været på skiferie",
+"Jeg har aldrig spist edibles",
+"Jeg har aldrig hallucineret",
+"Jeg har aldrig haft et bad trip",
+"Jeg har aldrig stået i kviksand",
+"Jeg har aldrig haft en hashplante",
+"Jeg har aldrig gokket den af til et familiemedlem",
+"Jeg har aldrig gokket den af til tanken af en jeg kender",
+"Jeg har aldrig gokket den af til et billede af en jeg kender",
+"Jeg har aldrig røget på en skoledag",
+"Jeg har aldrig været fuld på en skoledag",
+"Jeg har aldrig opdaget et familiemedlem i at onanere",
+"Jeg har aldrig opdaget et familiemedlem have sex",
+"Jeg har aldrig været AUTIST",
+"Jorden er flad",
+"Din mor",
+"Jeg har aldrig set et familiemedlem være fuld",
+"Jeg har aldrig været i frankrig",
+"Jeg har aldrig binge watched en serie",
+"Jeg har aldrig set børneporno",
+"Tyngdekraft findes ikke",
+"NASA har opdigtet alt",
+"Du findes ikke",
+"Din mor er grim",
+"Jeg har aldrig gået en klasse om",
 "Jeg har aldrig haft sex udendørs"
 ];
