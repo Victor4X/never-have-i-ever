@@ -35,7 +35,7 @@ var questionNumber = 0;
 $("#getQuestion").click(function(){
     $("#question").text(packContent[0][questionNumber]);
     if (questionNumber == packContent.length + 1) {
-      $("#question").text("No more questions in pack...");
+      $("#question").text("Ikke flere spørgsmål tilbage i pakke...");
     } else {
       questionNumber++;
     }

@@ -1,7 +1,7 @@
       <hr>
 
       <footer>
-        <p>Kekshop - Version: <?php echo $version; ?></p>
+        <p>Kekshop - <a href="https://github.com/Katofln/never-have-i-ever">Source (GitHub)</a> - Version: <?php echo $version; ?></p>
       </footer>
     </div>
     <script type="text/javascript">
