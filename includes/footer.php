@@ -1,7 +1,7 @@
       <hr>
 
       <footer>
-        <p>Lulz</p>
+        <p>Kekshop - Version: <?php echo $version; ?></p>
       </footer>
     </div>
     <script type="text/javascript">

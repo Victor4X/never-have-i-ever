@@ -1,7 +1,8 @@
 <?php
+  error_reporting(0);
   $version = "pre-alpha";
   // main title
-  $mainTitle = "Kekelek";
+  $mainTitle = "Kekshop";
   // error message
   $error = (object) array(
     "global" => "An error occurred. Server returned error code: "
