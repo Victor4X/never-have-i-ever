@@ -1,6 +1,6 @@
 <?php
   error_reporting(0);
-  $version = "0.2.1";
+  $version = "1.0.0";
   // main title
   $mainTitle = "Kekshop";
   // error message
@@ -9,8 +9,6 @@
   );
   // packs
   $packs = array(
-    array("Casual Pack", "casual"),
-    array("Dank Pack", "dank"),
     array("SUPER MeGa DanK 420^69 Päck", "super_mega_dank_420_69")
   );
 ?>
