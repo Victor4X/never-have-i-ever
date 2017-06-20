@@ -1,4 +1,24 @@
 var super_mega_dank_420_69 = [
   "Jeg har aldrig slugt",
-  "Jeg har aldrig røget dank"
+  "Jeg har aldrig røget dank",
+  "Jeg har aldrig fistet en, med hele min hånd",
+  "Jeg har aldrig fistet",
+  "Jeg har aldrig modtaget anal",
+  "FÆLLES SKÅL!",
+  "Jeg har aldrig haft et bad trip",
+  "Jeg har aldrig taget kokain",
+  "Jeg har aldrig taget svampe",
+  "Jeg har aldrig spist en edible (hashkage)",
+  "Jeg har aldrig selv haft en hashplante",
+  "Jorden er flad...",
+  "DIN MOR!",
+  "Fæaooolleess SKÅEEALLL!!",
+  "NASA har opdigtet alt",
+  "Jeg har aldrig tændt bare lidt på tis",
+  "Jeg har aldrig hallucineret på stoffer",
+  "Jeg har aldrig spinnet en fidget spinner",
+  "Jeg har aldrig ville have sex med nogen i dette rum",
+  "Jeg har aldrig lige knækket mig, for derefter at gå ud og kysse/snave en",
+  "Jeg har aldrig været afhængig af porno",
+  "Jeg har aldrig været fuld og høj på samme tid"
 ];
