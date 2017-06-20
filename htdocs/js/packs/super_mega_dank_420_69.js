@@ -20,5 +20,11 @@ var super_mega_dank_420_69 = [
   "Jeg har aldrig ville have sex med nogen i dette rum",
   "Jeg har aldrig lige knækket mig, for derefter at gå ud og kysse/snave en",
   "Jeg har aldrig været afhængig af porno",
-  "Jeg har aldrig været fuld og høj på samme tid"
+  "Jeg har aldrig været fuld og høj på samme tid",
+  "Jeg har aldrig røget weed op til en skoledag",
+  "Jeg har aldrig røget 420 i skolen",
+  "Jeg har aldrig smagt mit eget sæd eller slikket min hånd for pussyjuice",
+  "Jeg har aldrig fået et blackout af alkohol, weed...",
+  "Jeg har aldrig surfet porno på skolen",
+  "Jeg har aldrig handlet ulovligt på det mørke net"
 ];
