@@ -22,7 +22,7 @@
     ?>
     <script type="text/javascript">
       <?php
-        echo 'packContent.push('.htmlspecialchars($_GET["pack"]).');';
+        echo 'packContent = '.htmlspecialchars($_GET["pack"]).'.slice(0);';
       ?>
     </script>
     <script type="text/javascript" src="<?php echo $pathToHtdocs ?>js/master.js"></script>
