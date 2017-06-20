@@ -29,12 +29,12 @@ for (var i in packIdentifiers) {
   }
 }
 
-shuffle(packContent[0]);
+shuffle(packContent);
 var questionNumber = 0;
 
 $("#getQuestion").click(function(){
-    $("#question").text(packContent[0][questionNumber]);
-    if (questionNumber == packContent.length + 1) {
+    $("#question").text(packContent[questionNumber]);
+    if (questionNumber == packContent.length) {
       $("#question").text("Ikke flere spørgsmål tilbage i pakke...");
     } else {
       questionNumber++;
