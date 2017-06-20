@@ -1,6 +1,6 @@
 <?php
   error_reporting(0);
-  $version = "0.1.1";
+  $version = "0.2.0";
   // main title
   $mainTitle = "Kekshop";
   // error message
