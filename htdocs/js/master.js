@@ -21,11 +21,11 @@ function shuffle(a) {
 for (var i in packIdentifiers) {
   if (getParameterByName("pack") == packIdentifiers[i]) {
     $("#choosePack").hide();
-    $("#question").show();
+    $("#gameWindow").show();
     break;
   } else {
     $("#choosePack").show();
-    $("#question").hide();
+    $("#gameWindow").hide();
   }
 }
 
