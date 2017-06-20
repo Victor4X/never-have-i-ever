@@ -21,20 +21,20 @@ function shuffle(a) {
 for (var i in packIdentifiers) {
   if (getParameterByName("pack") == packIdentifiers[i]) {
     $("#choosePack").hide();
-    $("#question").show();
+    $("#gameWindow").show();
     break;
   } else {
     $("#choosePack").show();
-    $("#question").hide();
+    $("#gameWindow").hide();
   }
 }
 
-shuffle(packContent[0]);
+shuffle(packContent);
 var questionNumber = 0;
 
 $("#getQuestion").click(function(){
-    $("#question").text(packContent[0][questionNumber]);
-    if (questionNumber == packContent.length + 1) {
+    $("#question").text(packContent[questionNumber]);
+    if (questionNumber == packContent.length) {
       $("#question").text("Ikke flere spørgsmål tilbage i pakke...");
     } else {
       questionNumber++;
