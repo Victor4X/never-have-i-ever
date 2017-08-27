@@ -1,4 +1,4 @@
-var super_mega_dank_420_69 = [
+var hyggeligFest = [
   "Jeg har aldrig slugt",
   "Jeg har aldrig røget dank",
   "Jeg har aldrig fistet en, med hele min hånd",
