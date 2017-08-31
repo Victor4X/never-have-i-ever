@@ -1,7 +1,7 @@
 # Changelog
 Changelog for never-have-i-ever project, based on keepachangelog.com.
 
-## [2.0.0] - [Unreleased]
+## [2.0.0]
 ### Added
 - Changelog.
 - Total new redesign.
