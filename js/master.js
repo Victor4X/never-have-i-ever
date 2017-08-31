@@ -11,3 +11,16 @@ function shuffle(a) {
         a[j] = x;
     }
 }
+
+//On button click.
+document.getElementById("questionButton").onclick = updateQuestion();
+
+//updateQuestion function.
+function updateQuestion() {
+  document.getElementById("question").innerHTML = getQuestion();
+}
+
+//getQuestion function.
+function getQuestion() {
+  
+}
