@@ -1,19 +1,26 @@
 # Changelog
 Changelog for never-have-i-ever project, based on keepachangelog.com.
 
+## [2.2.0]
+### Added
+- Google tracking.
+### Changed
+- Small changes.
+
 ## [2.1.1]
 ### Added
-- New questions
+- New questions.
 
 ## [2.1.0]
 ### Added
-- New questions
-- Added source
-- Minor fix
+- New questions.
+- Added source.
+### Fixes
+- Minor fix.
 
 ## [2.0.1]
 ### Added
-- New questions
+- New questions.
 
 ## [2.0.0]
 ### Added
