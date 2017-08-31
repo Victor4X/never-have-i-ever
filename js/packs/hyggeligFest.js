@@ -92,12 +92,18 @@ var hyggeligFest = [
   "Jeg har aldrig intimbarberet",
   "Jeg har aldrig barberet mit røvhul",
   "Jeg har aldrig kommet til at skære mig selv under intimbarbering (storytime??!)",
-  "Gået i minus på kortet",
-  "Haft en kat",
-  "Skåret noget af et dyr",
-  "Kørt i bil (ulovligt) påvirket af alkohol",
+  "Jeg har aldrig gået i minus på kortet",
+  "Jeg har aldrig haft en kat",
+  "Jeg har aldrig skåret noget af et dyr",
+  "Jeg har aldrig kørt i bil (ulovligt) påvirket af alkohol",
   "Jeg har aldrig dabbet",
   "Jeg har aldrig haft sex med en af samme køn",
   "Jeg har aldrig været afhænig af alkohol",
-  "Jeg har aldrig været afhænig af computerspil"
+  "Jeg har aldrig været afhænig af computerspil",
+  "Jeg har aldrig været afhængig af snus",
+  "Jeg har aldrig været afhængig af smøger",
+  "Jeg har aldrig glemt navnet på den jeg sov sammen med",
+  "Jeg har aldrig været kristen",
+  "Jeg har aldrig fået et blowjob mens jeg så TV",
+  "Jeg har aldrig givet et blowjob mens TV'et kørte"
 ];

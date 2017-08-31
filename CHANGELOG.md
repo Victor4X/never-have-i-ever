@@ -1,6 +1,10 @@
 # Changelog
 Changelog for never-have-i-ever project, based on keepachangelog.com.
 
+## [2.1.1]
+### Added
+- New questions
+
 ## [2.1.0]
 ### Added
 - New questions
