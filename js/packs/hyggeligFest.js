@@ -88,4 +88,16 @@ var hyggeligFest = [
   "Jeg har aldrig fået slag af et familiemedlem",
   "Jeg har aldrig uddelt slag til et familiemedlem",
   "Jeg har aldrig kysset med en, hvor jeg fortrød bagefter",
+  "Jeg har aldrig DAKKET",
+  "Jeg har aldrig intimbarberet",
+  "Jeg har aldrig barberet mit røvhul",
+  "Jeg har aldrig kommet til at skære mig selv under intimbarbering (storytime??!)",
+  "Gået i minus på kortet",
+  "Haft en kat",
+  "Skåret noget af et dyr",
+  "Kørt i bil (ulovligt) påvirket af alkohol",
+  "Jeg har aldrig dabbet",
+  "Jeg har aldrig haft sex med en af samme køn",
+  "Jeg har aldrig været afhænig af alkohol",
+  "Jeg har aldrig været afhænig af computerspil"
 ];
