@@ -1,4 +1,3 @@
-
 // Questions asked.
 var questionNumber = 0;
 

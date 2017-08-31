@@ -4,6 +4,7 @@ Changelog for never-have-i-ever project, based on keepachangelog.com.
 ## [2.0.0] - [Unreleased]
 ### Added
 - Changelog.
+- Total new redesign.
 
 ## [1.0.0]
 
