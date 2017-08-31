@@ -12,6 +12,8 @@ function shuffle(a) {
     }
 }
 
+shuffle(hyggeligFest);
+
 //On button click.
 document.getElementById("questionButton").onclick = updateQuestion();
 
@@ -22,5 +24,10 @@ function updateQuestion() {
 
 //getQuestion function.
 function getQuestion() {
-  
+  if !(questionNumber + 1 > hyggeligFest.length) {
+    document.getElementById("question").innerHTML = hyggeligFest[questionNumber];
+    questionNumber++;
+  } else {
+    document.getElementById("question").innerHTML = "Ikke flere spørgsmål.......... SO!";
+  }
 }
