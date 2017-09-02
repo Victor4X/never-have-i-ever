@@ -1,4 +1,4 @@
-# never-have-i-ever
+# Never Have I Ever by Frederik Holm Strøm
 
 ## Credits
 Frederik Holm Strøm (katofln), software and questions
