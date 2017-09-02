@@ -21,7 +21,7 @@ function updateQuestion() {
     document.getElementById("question").innerHTML = hyggeligFest[questionNumber];
     questionNumber++;
   } else {
-    document.getElementById("question").innerHTML = "Ikke flere spørgsmål.......... SO!";
+    document.getElementById("question").innerHTML = "<b>Ikke flere spørgsmål...</b>";
   }
 }
 
