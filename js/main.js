@@ -35,17 +35,20 @@
 window.onload = function() {
 
   // Get current game pack in use.
-  var gamePackNumberInUse = getParameterByName('gamePack');
+  var gamePackIDInUse = getParameterByName('gamePack');
 
-  // Check if gamePackNumberInUse variable is empty.
-  if (gamePackNumberInUse) {
-    // Check weather gamePackNumberInUse variable exists and valid.
+  // Check if gamePackIDInUse variable is empty.
+  if (gamePackIDInUse) {
+    // Store current game pack's number in array.
+    var gamePackNumberInUse = null;
+    // Check weather gamePackIDInUse variable exists and valid.
     gamePackExists = false;
     for (var i = 0; i < gamePacks.length; i++) {
-      if (gamePacks[i]["gamePackID"] == gamePackNumberInUse) {
+      if (gamePacks[i]["gamePackID"] == gamePackIDInUse) {
+        gamePackNumberInUse = i;
         gamePackExists = true;
         break;
-      } // if (gamePacks[i] == gamePackNumberInUse)
+      } // if (gamePacks[i] == gamePackIDInUse)
     } // for (var i = 0; i < gamePacks.length; i++)
 
     // If gamePackNumberInUse is valid.
@@ -73,6 +76,6 @@ window.onload = function() {
       };  // document.getElementById("getQuestionButton").onclick
     } // if (gamePackExists)
 
-  } // if (gamePackNumberInUse)
+  } // if (gamePackIDInUse)
 
 } // window.onload
