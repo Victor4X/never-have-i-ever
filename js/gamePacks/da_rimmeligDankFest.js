@@ -1,8 +1,7 @@
 var da_rimmeligDankFest = [
-"gamePackName": "Rimmelig Dank Fest",
-
+  "gamePackName": "Rimmelig Dank Fest",
+  "questions": [
 // Questions
-"questions": [
 
 "Jeg har aldrig slugt",
 "Jeg har aldrig røget dank",
