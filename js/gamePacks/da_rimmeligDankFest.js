@@ -1,4 +1,4 @@
-var da_rimmeligDankFest = [
+var da_rimmeligDankFest = {
   "gamePackName": "Rimmelig Dank Fest",
   "questions": [
 // Questions
@@ -111,4 +111,4 @@ var da_rimmeligDankFest = [
 "Jeg har aldrig fået et blowjob mens jeg så TV",
 "Jeg har aldrig givet et blowjob mens TV'et kørte"
 
-]];
+]};
