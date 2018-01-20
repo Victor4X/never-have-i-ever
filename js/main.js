@@ -1,4 +1,4 @@
-// Code block start. This code is by jolly.exe - https://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript/901144#901144
+// Code block start. This code is by jolly.exe - https://stackoverflow.com/a/901144
   function getParameterByName(name, url) {
       if (!url) url = window.location.href;
       name = name.replace(/[\[\]]/g, "\\$&");
@@ -7,6 +7,27 @@
       if (!results) return null;
       if (!results[2]) return '';
       return decodeURIComponent(results[2].replace(/\+/g, " "));
+  }
+// Code block end.
+
+// Code block start. This code is by CoolAJ86 - https://stackoverflow.com/a/2450976
+  function shuffle(array) {
+    var currentIndex = array.length, temporaryValue, randomIndex;
+
+    // While there remain elements to shuffle...
+    while (0 !== currentIndex) {
+
+      // Pick a remaining element...
+      randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex -= 1;
+
+      // And swap it with the current element.
+      temporaryValue = array[currentIndex];
+      array[currentIndex] = array[randomIndex];
+      array[randomIndex] = temporaryValue;
+    }
+
+    return array;
   }
 // Code block end.
 
