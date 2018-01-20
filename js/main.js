@@ -50,16 +50,23 @@ window.onload = function() {
 
     // If gamePackNumberInUse is valid.
     if (gamePackExists) {
-      // Game pack holder variable. (Holds all questions for specefic pack.)
+      // Game pack holder variables.
       var gamePack = gamePacks[gamePackNumberInUse];
+      var gamePackQuestions = gamePacks[gamePackNumberInUse]["questions"];
       // Variable to store what question in pack currently at.
       var questionNumber = 0;
       // Weather or not there are more questions in pack.
       var moreQuestionsLeft = true;
+      //Shuffle question in pack.
+      shuffle(gamePackQuestions);
       // Run everytime button with id "getQuestionButton" is clicked.
       document.getElementById("getQuestionButton").onclick = function () {
         if (moreQuestionsLeft) {
-            console.log("Button clicked.");
+            document.getElementById("question").innerHTML = gamePackQuestions[questionNumber];
+            questionNumber++;
+            if (questionNumber >= gamePackQuestions.length) {
+              moreQuestionsLeft = false;
+            }
         } else {
           document.getElementById("question").innerHTML = "No more questions left in pack.";
         }
