@@ -2,9 +2,10 @@
 
 ## Credits
 ### Design
-Magnus Quist (MagnusQuist)
+- Magnus Quist (MagnusQuist)
 ### Coding
-Frederik Holm Strøm (Katofln)
+- [Frederik Holm Strøm (Katofln)](https://frederikstroem.com/)
+- Magnus Quist (MagnusQuist)
 ### Questions
-Frederik Holm Strøm (Katofln)
-Emil Kühn (ApeAware)
+- [Frederik Holm Strøm (Katofln)](https://frederikstroem.com/)
+- Emil Kühn (ApeAware)
