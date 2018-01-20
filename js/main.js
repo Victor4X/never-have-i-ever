@@ -13,6 +13,23 @@
 // Execute when page has fully loaded.
 window.onload = function() {
 
-// TODO
+// Get current game pack in use.
+var gamePackInUse = getParameterByName('gamePack');
+
+// Check if gamePackInUse variable is empty.
+if (gamePackInUse) {
+  // Check weather gamePackInUse variable exists and valid.
+  gamePackExists = false;
+  for (var i = 0; i < gamePacks.length; i++) {
+    if (gamePacks[i] == gamePackInUse) {
+      gamePackExists = true;
+      break;
+    }
+    // If gamePackInUse is valid.
+    if (gamePackExists) {
+
+    }
+  }
+}
 
 }
