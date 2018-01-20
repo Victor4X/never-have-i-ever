@@ -14,27 +14,29 @@
 window.onload = function() {
 
   // Get current game pack in use.
-  var gamePackInUse = getParameterByName('gamePack');
+  var gamePackNumberInUse = getParameterByName('gamePack');
 
-  // Check if gamePackInUse variable is empty.
-  if (gamePackInUse) {
-    // Check weather gamePackInUse variable exists and valid.
+  // Check if gamePackNumberInUse variable is empty.
+  if (gamePackNumberInUse) {
+    // Check weather gamePackNumberInUse variable exists and valid.
     gamePackExists = false;
     for (var i = 0; i < gamePacks.length; i++) {
-      if (gamePacks[i]["gamePackID"] == gamePackInUse) {
+      if (gamePacks[i]["gamePackID"] == gamePackNumberInUse) {
         gamePackExists = true;
         break;
-      } // if (gamePacks[i] == gamePackInUse)
+      } // if (gamePacks[i] == gamePackNumberInUse)
     } // for (var i = 0; i < gamePacks.length; i++)
 
-    // If gamePackInUse is valid.
+    // If gamePackNumberInUse is valid.
     if (gamePackExists) {
+      // Game pack holder variable. (Holds all questions for specefic pack.)
+      var gamePack = gamePacks[gamePackNumberInUse];
       // Run everytime button with id "getQuestionButton" is clicked.
       document.getElementById("getQuestionButton").onclick = function () {
         console.log("Button clicked.");
       };  // document.getElementById("getQuestionButton").onclick
     } // if (gamePackExists)
 
-  } // if (gamePackInUse)
+  } // if (gamePackNumberInUse)
 
 } // window.onload
