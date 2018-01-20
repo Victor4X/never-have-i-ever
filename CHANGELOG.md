@@ -1,7 +1,7 @@
 # Changelog
 Changelog for never-have-i-ever project, based on keepachangelog.com.
 
-## [3.0.0]
+## 3.0.0
 ### Changed
 - Major update, total new redesign, new question, new everything!
 
