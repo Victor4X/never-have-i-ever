@@ -13,23 +13,28 @@
 // Execute when page has fully loaded.
 window.onload = function() {
 
-// Get current game pack in use.
-var gamePackInUse = getParameterByName('gamePack');
+  // Get current game pack in use.
+  var gamePackInUse = getParameterByName('gamePack');
 
-// Check if gamePackInUse variable is empty.
-if (gamePackInUse) {
-  // Check weather gamePackInUse variable exists and valid.
-  gamePackExists = false;
-  for (var i = 0; i < gamePacks.length; i++) {
-    if (gamePacks[i] == gamePackInUse) {
-      gamePackExists = true;
-      break;
-    }
+  // Check if gamePackInUse variable is empty.
+  if (gamePackInUse) {
+    // Check weather gamePackInUse variable exists and valid.
+    gamePackExists = false;
+    for (var i = 0; i < gamePacks.length; i++) {
+      if (gamePacks[i]["gamePackID"] == gamePackInUse) {
+        gamePackExists = true;
+        break;
+      } // if (gamePacks[i] == gamePackInUse)
+    } // for (var i = 0; i < gamePacks.length; i++)
+
     // If gamePackInUse is valid.
     if (gamePackExists) {
+      // Run everytime button with id "getQuestionButton" is clicked.
+      document.getElementById("getQuestionButton").onclick = function () {
+        console.log("Button clicked.");
+      };  // document.getElementById("getQuestionButton").onclick
+    } // if (gamePackExists)
 
-    }
-  }
-}
+  } // if (gamePackInUse)
 
-}
+} // window.onload
