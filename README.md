@@ -2,7 +2,7 @@
 
 ## Credits
 ### Design
-(MagnusQuist)
+Magnus Quist (MagnusQuist)
 ### Coding
 Frederik Holm Strøm (Katofln)
 ### Questions
