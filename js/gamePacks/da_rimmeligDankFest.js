@@ -1,6 +1,6 @@
 var da_rimmeligDankFest = {
-  "gamePackID": "da_rimmeligDankFest",
-  "gamePackName": "Rimmelig Dank Fest",
+  "gamePackID": "da_rimeligDankFest",
+  "gamePackName": "Rimelig Dank Fest",
   "questions": [
 // Questions
 
