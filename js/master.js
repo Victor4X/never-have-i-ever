@@ -85,7 +85,7 @@ window.onload = function() {
               moreQuestionsLeft = false;
             }
         } else {
-          document.getElementById("question").innerHTML = "No more questions left in pack.";
+          document.getElementById("question").innerHTML = "Ikke flere spørgsmål tilbage i pakke.";
         }
       };  // document.getElementById("getQuestionButton").onclick
     } // if (gamePackExists)

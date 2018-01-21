@@ -2,5 +2,6 @@
 var gamePacks = [
   // Danish packs.
   da_rimmeligDankFest,
-  da_hyggeligFest
+  da_hyggeligFest,
+  da_weedEdition
 ]
