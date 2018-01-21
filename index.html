@@ -6,18 +6,39 @@
     <link rel="icon" href="../favicon.ico">
     <title>Jeg Har Aldrig</title>
 
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/thirdParty/bootstrap.min.css">
 
     <link rel="stylesheet" href="css/master.css">
   </head>
   <body>
 
+    <nav class="navbar navbar-expand-md navbar-dark bg-dark mb-4">
+      <a class="navbar-brand" href="#">Top navbar</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarCollapse">
+        <ul class="navbar-nav mr-auto">
+          <li id="home" class="nav-item">
+            <a class="nav-link" href="./">Home</a>
+          </li>
+          <li id="da_rimmeligDankFest" class="nav-item">
+            <a id="da_rimmeligDankFestLink" class="nav-link" href="?da_rimmeligDankFest">Placeholder</a>
+          </li>
+          <li id="da_hyggeligFest" class="nav-item">
+            <a id="da_hyggeligFestLink" class="nav-link" href="?da_hyggeligFest">Placeholder</a>
+          </li>
+        </ul>
+      </div>
+    </nav>
 
     <script type="text/javascript" src="js/thirdParty/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="js/thirdParty/bootstrap.min.js"></script>
 
     <script type="text/javascript" src="js/gamePacks/da_rimmeligDankFest.js"></script>
+    <script type="text/javascript" src="js/gamePacks/da_hyggeligFest.js"></script>
     <script type="text/javascript" src="js/gamePacks/gamePacks.js"></script>
     <script type="text/javascript" src="js/master.js"></script>
+
   </body>
 </html>
