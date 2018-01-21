@@ -102,6 +102,9 @@ var da_rimmeligDankFest = {
 "Drenge: Jeg har aldrig suttet en pik (storytime hvis der kun er 1 der drikker)",
 "Jeg har aldrig tørret mig for at der så går hul på papiret eller at jeg rammer ved siden af... (storytime hvis der kun er 1 der drikker)",
 "Jeg har aldrig haft en kønssygdom (storytime hvis der kun er 1 der drikker)",
-"Jeg har aldrig haft sex op af et køkkenbord (storytime hvis der kun er 1 der drikker)"
+"Jeg har aldrig haft sex op af et køkkenbord (storytime hvis der kun er 1 der drikker)",
+"Jeg er aldrig blevet anholdt (storytime hvis der kun er 1 der drikker)",
+"Jeg har aldrig fået lavet en intimpiercing (storytime hvis der kun er 1 der drikker)",
+"Jeg har aldrig bustet mine forældre (storytime hvis der kun er 1 der drikker)"
 
 ]};
