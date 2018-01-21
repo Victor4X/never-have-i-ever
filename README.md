@@ -1,5 +1,11 @@
-# Never Have I Ever by Frederik Holm Strøm
+# Never Have I Ever
 
 ## Credits
-Frederik Holm Strøm (katofln), software and questions
-Emil Kühn (ApeAware), questions
+### Design
+- Magnus Quist (MagnusQuist)
+### Coding
+- [Frederik Holm Strøm (Katofln)](https://frederikstroem.com/)
+- Magnus Quist (MagnusQuist)
+### Questions
+- [Frederik Holm Strøm (Katofln)](https://frederikstroem.com/)
+- Emil Kühn (ApeAware)
