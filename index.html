@@ -19,18 +19,32 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <ul class="navbar-nav mr-auto">
-          <li id="home" class="nav-item">
-            <a class="nav-link" href="./">Home</a>
+          <li class="nav-item">
+            <a class="nav-link" href="./">Hjem</a>
           </li>
-          <li id="da_rimmeligDankFest" class="nav-item">
-            <a id="da_rimmeligDankFestLink" class="nav-link" href="?da_rimmeligDankFest">Placeholder</a>
+          <li class="nav-item">
+            <a class="nav-link" href="?gamePack=da_rimmeligDankFest">Rimmelig Dank Fest</a>
           </li>
-          <li id="da_hyggeligFest" class="nav-item">
-            <a id="da_hyggeligFestLink" class="nav-link" href="?da_hyggeligFest">Placeholder</a>
+          <li class="nav-item">
+            <a class="nav-link" href="?gamePack=da_hyggeligFest">Hyggelig Fest</a>
           </li>
         </ul>
       </div>
     </nav>
+
+    <main role="main" class="container">
+
+      <div id="homepageBlock">
+        <div id="choosePack">Vælg pakke i menuen ovenfor.</div>
+      </div>
+
+      <div id="questionBlock">
+        <div id="currentPack">Spiller pakken: null</div>
+        <div id="question">Kom med et spørgsmål!</div>
+        <a id="getQuestionButton" class="btn btn-lg btn-primary" href="javascript:void(0);" role="button">Få spørgsmål</a>
+      </div>
+
+    </main><!-- /.container -->
 
     <script type="text/javascript" src="js/thirdParty/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="js/thirdParty/bootstrap.min.js"></script>

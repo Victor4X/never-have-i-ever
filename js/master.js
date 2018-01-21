@@ -31,9 +31,20 @@
   }
 // Code block end.
 
+function showHomepage() {
+  document.getElementById("questionBlock").style.display = 'none';
+  document.getElementById("homepageBlock").style.display = 'block';
+}
+
+function showQuestionBlock() {
+  document.getElementById("questionBlock").style.display = 'block';
+  document.getElementById("homepageBlock").style.display = 'none';
+}
+
+showHomepage();
+
 // Execute when page has fully loaded.
 window.onload = function() {
-
   // Get current game pack in use.
   var gamePackIDInUse = getParameterByName('gamePack');
 
@@ -60,8 +71,11 @@ window.onload = function() {
       var questionNumber = 0;
       // Weather or not there are more questions in pack.
       var moreQuestionsLeft = true;
-      //Shuffle question in pack.
+      // Shuffle question in pack.
       shuffle(gamePackQuestions);
+      // Show current pack.
+      document.getElementById("currentPack").innerHTML = "Spiller pakken: " + gamePacks[gamePackNumberInUse]["gamePackName"];
+      showQuestionBlock();
       // Run everytime button with id "getQuestionButton" is clicked.
       document.getElementById("getQuestionButton").onclick = function () {
         if (moreQuestionsLeft) {
